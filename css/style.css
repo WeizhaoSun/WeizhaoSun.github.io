@@ -1,0 +1,176 @@
+body {
+    font-family: "Roboto";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("../images/launching02.jpg");
+    background-size: cover;
+}
+
+.main-content {
+    text-align: center;
+    box-shadow: 0 0  10px #00000070;
+}
+
+.top-section {
+    background-color: #ffffff;
+    padding: 0px 0 5px 0;
+}
+
+.top-section img {
+    width: 50%;
+    border-radius: 50%;
+}
+
+.top-section p {
+    margin: 5px 0 5px 0;
+}
+
+.top-section .name {
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+
+.middle-section, .bottom-section, .last-section {
+    background-color: #ffffff;
+}
+
+.middle-section {
+    position: relative;
+}
+
+.middle-section h2 {
+    margin-top: 20px
+
+}
+
+.bottom-section {
+    position: relative;
+
+}
+
+.bottom-section p {
+    margin-left:10px;
+}
+
+.bottom-section {
+    justify-content: space-evenly;
+}
+
+
+.last-section {
+    justify-content: space-evenly;
+}
+
+.last-section span {
+    display: block;
+}
+
+.border {
+    width: 10px;
+    height: 40px;
+    background-color: #d3dae2;
+    margin-left: 50px;
+    margin-right: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
