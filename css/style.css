@@ -44,7 +44,8 @@ body {
 }
 
 .middle-section h2 {
-    margin-top: 20px
+    margin-top: 20px;
+    text-align: justify;
 
 }
 
@@ -55,6 +56,7 @@ body {
 
 .bottom-section p {
     margin-left:10px;
+    text-align: justify;
 }
 
 
