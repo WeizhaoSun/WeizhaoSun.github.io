@@ -8,14 +8,14 @@ body {
 }
 
 .main-content {
-    text-align: justify;
+    text-align: center;
     box-shadow: 0 0  10px #00000070;
 }
 
 .top-section {
     background-color: #ffffff;
     padding: 0px 0 5px 0;
-    text-align: justify;
+    text-align: center;
 }
 
 .top-section img {
@@ -28,7 +28,7 @@ body {
 }
 
 .top-section .name {
-    font-size: 30px;
+    font-size: 20px;
     text-transform: uppercase;
     margin-top: 20px;
 }
@@ -36,7 +36,6 @@ body {
 
 .middle-section, .bottom-section, .last-section {
     background-color: #ffffff;
-    text-align: justify;
 }
 
 .middle-section {
@@ -45,14 +44,20 @@ body {
 
 .middle-section h2 {
     margin-top: 20px;
-    text-align: justify;
+    text-align: center;
 
+}
+
+.middle-section p {
+    margin-left:10px;
+    text-align: justify;
 }
 
 .bottom-section {
     position: relative;
 
 }
+
 
 .bottom-section p {
     margin-left:10px;
