@@ -8,7 +8,7 @@ body {
 }
 
 .main-content {
-    text-align: center;
+    text-align: justify;
     box-shadow: 0 0  10px #00000070;
 }
 
@@ -57,14 +57,8 @@ body {
     margin-left:10px;
 }
 
-.bottom-section {
-    justify-content: space-evenly;
-}
 
 
-.last-section {
-    justify-content: space-evenly;
-}
 
 .last-section span {
     display: block;
