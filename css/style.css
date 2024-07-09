@@ -15,6 +15,7 @@ body {
 .top-section {
     background-color: #ffffff;
     padding: 0px 0 5px 0;
+    text-align: justify;
 }
 
 .top-section img {
@@ -35,6 +36,7 @@ body {
 
 .middle-section, .bottom-section, .last-section {
     background-color: #ffffff;
+    text-align: justify;
 }
 
 .middle-section {
